@@ -29,11 +29,9 @@
 
         <TableRow android:layout_weight="1">
 
-            <Button/>
-            <Button/>
-            <Button/>
-            <Button/>
-            <Button/>
+            <Button
+                
+                />
 
         </TableRow>
 
